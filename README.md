@@ -84,7 +84,7 @@ del prototipo:
 ![prototipo de alta fidelidad 4](src/img/alta4.jpg) 
 
 Link:
-[zeplin](https://zpl.io/V0LKg4K)
+[Figma](https://www.figma.com/file/IGPGpvWNb7s7NKUOIjWHsV4a/Untitled?node-id=0%3A1)
 
 # Testeos de usabilidad
 
