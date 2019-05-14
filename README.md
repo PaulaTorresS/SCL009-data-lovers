@@ -1,7 +1,13 @@
 # Data Lovers
 ![logo](src/img/logo.jpg) 
 
-Para ir a la página;
+Link Trello: 
+
+https://trello.com/b/WYv5Ladk/data-lovers
+
+***
+
+Para ir a la página:
 
 [https://paulatorress.github.io/SCL009-data-lovers/src/index.html](https://paulatorress.github.io/SCL009-data-lovers/src/index.html)
 
